@@ -1,0 +1,12 @@
+{
+  "name": "kirby3-readingtime",
+  "version": "0.1.0",
+  "description": "Estimated reading time Field Method Plugin for Kirby 3",
+  "main": "index.php",
+  "author": "Alex Moyler",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:am0/kirby3-readingtime.git"
+  }
+}
